@@ -1,0 +1,11 @@
+.first{
+    font-weight: bold;
+}
+
+.second{
+    font-style: italic;
+}
+
+p{
+    font-size: 2em;
+}

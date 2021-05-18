@@ -1,0 +1,5 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-image: linear-gradient(67.5deg, rgb(113, 230, 113), rgb(236, 234, 108) 25%, rgb(250, 159, 136) 95%);
+}

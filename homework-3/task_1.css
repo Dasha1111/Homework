@@ -1,0 +1,30 @@
+p{
+    font-weight: 600;
+    line-height: 10px;
+    font-weight: 1rem;
+    font-weight: 100%;
+}
+
+body{
+    background: url(https://idg.net.ua/blog/wp-content/uploads/videofon-dlya-sajta-html5-700x325.jpg) ;
+    background-size: 100%;
+}
+.first{
+    color: black;
+}
+
+.second{
+    color: #0000ff;
+}
+
+.third{
+    color: rgb(225, 0, 105);
+}
+
+.fourth {
+    color: hsl(120, 52%, 41%);
+}
+
+.fifth{
+    color: rgba(0, 0, 225, 0.5);
+}

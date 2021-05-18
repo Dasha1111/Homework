@@ -1,0 +1,10 @@
+div {
+    width: 400px;
+    height: 250px;
+    background-color: black;
+    background-image: url(https://klike.net/uploads/posts/2018-06/1528641325_3.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 400px;
+    box-shadow: inset 19px -17px 20px 9px #159e1b, inset -20px 19px 15px 12px black, -15px -20px 12px 10px #f30303, 20px 16px 10px 13px #1031e6;
+    margin: 200px;
+}

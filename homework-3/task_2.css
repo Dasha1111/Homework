@@ -1,0 +1,23 @@
+.first{
+    color: blue;
+}
+
+.second{
+    color: rgb(8, 24, 252);
+}
+
+.third{
+    color: #0000ff;
+}
+
+.fourth{
+    color: hsl(240, 100%, 50%);
+}
+
+.firstWay{
+    background-color: rgb(19, 32, 214, 0.3);
+}
+
+.secondWay{
+    background-color: hsl(240, 100%, 50%, 0.3);
+}

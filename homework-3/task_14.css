@@ -1,0 +1,45 @@
+table{
+    width: 200px;
+    height: 200px;
+    border-collapse: collapse;
+}
+
+.first{
+    background-color: blue;
+}
+
+.second{
+    background-color: red;
+}
+
+.firstCell{
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+
+.secondCell{
+    border-top-left-radius: 50%;
+}
+
+.thirdCell{
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+.sixthCell{
+    border-radius: 50%;
+}
+
+.seventhCell{
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+.eighthCell{
+    border-bottom-left-radius: 50%;
+}
+
+.ninthCell{
+    border-bottom-right-radius: 50%;
+    border-top-right-radius: 50%;
+}

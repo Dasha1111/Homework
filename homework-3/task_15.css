@@ -1,0 +1,8 @@
+div {
+    width: 300px;
+    height: 200px;
+    background-color: black;
+    background-image: url(https://klike.net/uploads/posts/2018-06/1528641325_3.jpg) ;
+    background-repeat: round;
+    background-size: 25%;
+}
