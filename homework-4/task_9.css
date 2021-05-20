@@ -1,0 +1,14 @@
+.list{
+    list-style: none;
+}
+
+.secondList{
+    display: none;
+}
+
+.second:hover .secondList{
+    display: block;
+    width: 70px;
+    background-color: red;
+    list-style: none;
+}

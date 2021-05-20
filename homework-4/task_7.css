@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+.firstBlock div{
+    border: 2px solid black;
+    display: table-cell;
+    padding: 3px;
+}
+
+.secondBlock div{
+    border: 2px solid black;
+    display: table-cell;
+    padding: 3px;
+}
+
+.secondBlock{
+    display: inline-table;
+}
+

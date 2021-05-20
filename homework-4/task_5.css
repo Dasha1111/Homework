@@ -1,0 +1,17 @@
+.second{
+    display: block;
+}
+
+.fifth{
+    display: inline;
+}
+
+.eighth{
+    display: inline-block;
+}
+
+.firstBlock, .secondBlock, .thirdBlock{
+    display: list-item;
+    list-style-type: upper-alpha;
+    margin-left: 30px;
+}

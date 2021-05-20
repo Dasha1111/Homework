@@ -1,0 +1,33 @@
+div{
+    color: white;
+    width: 50px;
+    height: 50px;
+}
+
+.first{
+    background-color: red;
+    position: absolute;
+    top:150px;
+    left: 150px;
+}
+
+.second{
+    background-color: green;
+    position: absolute;
+    top:100px;
+    left: 100px;
+}
+
+.third{
+    background-color: blue;
+    position: absolute;
+    top:100px;
+    left: 150px;
+}
+
+.fourth{
+    background-color: black;
+    position: absolute;
+    top:150px;
+    left: 100px;
+}

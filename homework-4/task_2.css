@@ -1,0 +1,25 @@
+.firstDiv, .fourthDiv{
+    background-color: red;
+}
+
+.secondDiv, .thirdDiv{
+    background-color: green;
+}
+
+.secondDiv{
+    float: right;
+    width: 20%;
+}
+
+.firstDiv{
+    margin-right: 20%;
+}
+
+.thirdDiv{
+    float: left;
+    width: 20%;
+}
+
+.fourthDiv{
+    margin-left: 20%;
+}
