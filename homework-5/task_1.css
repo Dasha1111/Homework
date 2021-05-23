@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.first{
+    align-self: flex-start;
+}
+
+.second{
+    align-self: center;
+}
+
+.third{
+    width: 99%;
+}
+
+.fourth{
+    align-self: center;
+}
+
+.fifth{
+    align-self: flex-end;
+}

@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+
+div{
+    border: 2px solid black;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+}
+
+.first{
+    align-self: flex-end;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.second{
+    align-self: center;
+}
+
+.third{
+    align-self: flex-start;
+    margin-top: 20px;
+}
+
+.third_2{
+    align-self: flex-end;
+    order: 5;
+    margin-bottom: 20px;
+}
+
+.fourth{
+    align-self: center;
+}
