@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #c8ced4;
+}
+
+.container-fluid{
+    width: 80%;
+}
+
+.navbar-collapse{
+    justify-content: flex-end;
+}
+
+.wrapper{
+    background-color: white;
+    width: 30%;
+    height: 550px;
+    position: absolute;
+    top: 100px;
+    left: 35%;
+}
+
+.title{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+select{
+    margin-bottom: 30px;
+    width: 53%;
+}
+
+input{
+    margin-bottom: 30px;
+}
+
+.form-group{
+    width: 350px;
+    text-align: right;
+    margin-bottom: 0;
+}
+
+.submit-button{
+    text-align: center;
+}
