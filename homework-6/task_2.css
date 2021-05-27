@@ -1,0 +1,10 @@
+.card{
+    margin: 10px;
+    width: 20%;
+    display: inline-block;
+}
+
+.card-header, .btn-primary{
+    color: white;
+}
+

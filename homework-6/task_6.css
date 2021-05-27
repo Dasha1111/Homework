@@ -1,0 +1,13 @@
+.modal-title{
+    color: rgb(199, 146, 122);
+    font-size: 26px;
+    font-weight: 400;
+}
+
+.btn-primary-1{
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    color: white;
+    background-color: black;
+}
