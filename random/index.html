@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="style.css"> 
+		<title>Generator</title>	
+
+	</head>
+	<body>
+		<section class="main">
+			<p>Генерация случайного значения</p>
+			<div class="card-1">
+				<div class="content">
+					<div class="lb-1">
+						<label>Минимальное значение:</label><br/>
+						<input id="min" type="text" /><br/>
+					</div>
+					<div class="lb-2">
+						<label class="lb2">Максимальное значение:</label><br/>
+						<input id="max" type="text" /><br/>
+					</div>
+					<div class="lb-3">
+						<label class="lb3">Колличество значение:</label><br/>
+						<input id="count" type="text" /><br/>
+					</div>
+					<button class="btn">Сгенерировать</button>
+				</div>
+			</div>
+			<div class="card-2">
+				<div class="result" id="display" maxlength="6"></div>
+			</div>
+
+		</section>
+
+
+		<script src="script.js"></script>
+	</body>
+</html>
